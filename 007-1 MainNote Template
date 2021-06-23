@@ -1,39 +1,48 @@
 # MainNote Template
 ##### MainNote
-		MainNote is the nucleus of the Multi-Set System, intentionally designed to act as the primary navigation method through the digital storage space.		
+	MainNote is the nucleus of the Multi-Set System, intentionally designed to act as the primary navigation method through the digital storage space.		
 
-###### SubNote #1 (SubNote Link)
+##### SubNote #1 (SubNote Link)
+	Description
+###### Important SetNotes
+- [[Sample 1]]
+- [[Sample 2]]
+- [[Sample 3]]
 
-- Description
+##### SubNote #2 (SubNote Link)
+	Description
+###### Important SetNotes
+- [[Sample 1]]
+- [[Sample 2]]
+- [[Sample 3]]
 
-**Essential SetNotes**
+##### SubNote #3 (SubNote Link)
+	Description
+###### Important SetNotes
+- [[Sample 1]]
+- [[Sample 2]]
+- [[Sample 3]]
 
-###### SubNote #2 (SubNote Link)
+##### SubNote #4 (SubNote Link)
+	Description
+###### Important SetNotes
+- [[Sample 1]]
+- [[Sample 2]]
+- [[Sample 3]]
 
-- Description
+##### SubNote #5 (SubNote Link)
+	Description
+###### Important SetNotes
+- [[Sample 1]]
+- [[Sample 2]]
+- [[Sample 3]]
 
-**Essential SetNotes**
+##### SubNote #6 (SubNote Link)
+	Description
+###### Important SetNotes
+- [[Sample 1]]
+- [[Sample 2]]
+- [[Sample 3]]
 
-###### SubNote #3 (SubNote Link)
-
-- Description
-
-**Essential SetNotes**
-
-###### SubNote #4 (SubNote Link)
-
-- Description
-
-**Essential SetNotes**
-
-###### SubNote #5 (SubNote Link)
-
-- Description
-
-**Essential SetNotes**
-
-###### SubNote #6 (SubNote Link)
-
-- Description
-
-**Essential SetNotes**
+**Relevant Links**
+GitHub: https://github.com/TheAutodidactDidact/ObsidianMD-MSS
